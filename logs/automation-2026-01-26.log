@@ -1,0 +1,50 @@
+18:20:56.596 [main] INFO  testCases.TC002_LoginTest ************** Starting TC_002_LoginTest *************************
+18:22:43.756 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\OpenCartv121\master.xml
+
+18:22:47.099 [main] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:22:47.220 [main] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:22:47.701 [main] INFO  testCases.TC001_AccountRegistrationPage Clicked on Register link
+18:22:47.711 [main] INFO  testCases.TC001_AccountRegistrationPage Providing customer details......
+18:22:51.349 [main] INFO  testCases.TC001_AccountRegistrationPage Validating expecting message
+18:22:51.455 [main] INFO  testCases.TC001_AccountRegistrationPage ************** Finished TC001_AccountRegestrtionTest **************************
+18:22:53.656 [main] INFO  testCases.TC002_LoginTest ************** Starting TC_002_LoginTest *************************
+18:28:47.633 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\OpenCartv121\master.xml
+
+18:28:50.196 [main] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:28:50.331 [main] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:28:50.758 [main] INFO  testCases.TC001_AccountRegistrationPage Clicked on Register link
+18:28:50.758 [main] INFO  testCases.TC001_AccountRegistrationPage Providing customer details......
+18:28:52.893 [main] INFO  testCases.TC001_AccountRegistrationPage Validating expecting message
+18:28:52.947 [main] INFO  testCases.TC001_AccountRegistrationPage ************** Finished TC001_AccountRegestrtionTest **************************
+18:28:55.211 [main] INFO  testCases.TC002_LoginTest ************** Starting TC_002_LoginTest *************************
+18:30:43.447 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\OpenCartv121\CrossBrowserTesting.xml
+
+18:30:43.789 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:30:52.717 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:30:52.824 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:30:53.192 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Clicked on Register link
+18:30:53.192 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Providing customer details......
+18:30:55.475 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Validating expecting message
+18:30:55.553 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage ************** Finished TC001_AccountRegestrtionTest **************************
+18:31:43.938 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\OpenCartv121\CrossBrowserTesting.xml
+
+18:31:44.164 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:31:47.181 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:31:47.380 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:31:47.468 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:31:47.548 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:34:46.724 [main] INFO  org.testng.internal.Utils [TestNG] Running:
+  C:\Users\Administrator\eclipse-workspace\OpenCartv121\CrossBrowserTesting.xml
+
+18:34:49.867 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:34:49.867 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:34:50.041 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:34:50.126 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:34:54.812 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage ***************** Starting TC001_AccountRegistrationTest ************************
+18:34:54.971 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage Clicked on My account link
+18:34:55.485 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage Clicked on Register link
+18:34:55.492 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationPage Providing customer details......
